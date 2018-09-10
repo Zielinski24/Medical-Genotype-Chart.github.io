@@ -1,2 +1,2 @@
-# Medical-Genotype-Chart
-Human Medical genotype chart for intending couple.
+# Medical-Genotype-Chart.github.io
+Human Medical genotype chart for intending couples.
